@@ -1,0 +1,90 @@
+[
+  {
+    "CountryCode": "",
+    "Tab": "Sales",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath":"europe/POS/Amazon/Sales/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "Inventory",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/Inventory/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "Traffic",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/Traffic/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "Forecast - Mean",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/Forecast/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "Forecast - P70",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/Forecast/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "Forecast - P80",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/Forecast/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "Forecast - P90",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/Forecast/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "Catalogue",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/ItemCatalog/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "RepeatPurchaseBehaviour-Asin",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/RepeatPurchaseBehaviour/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "TopSearchTerms",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/TopSearchTerms/Weekly/"
+  },
+  {
+    "CountryCode": "",
+    "Tab": "MarketBasketAnalysis",
+    "StartDate": "",
+    "Period": "Weekly",
+    "IsAddedToDownloadManager": false,
+    "AzurePath": "europe/POS/Amazon/MarketBasketAnalysis/Weekly/"
+  }
+]

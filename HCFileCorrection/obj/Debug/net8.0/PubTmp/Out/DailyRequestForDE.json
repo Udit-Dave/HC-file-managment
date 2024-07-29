@@ -1,0 +1,19 @@
+﻿[
+  {
+    "Tab": "PublisherReportAlc",
+    "StartDate": "",
+    "Period": "Daily",
+    "IsAddedToDownloadManager": false,
+    "CountryCode": "",
+    "AzurePath": "europe/POS/Amazon/PublisherReportALC/Daily/"
+
+  },
+  {
+    "Tab": "PublisherReportSubscription",
+    "StartDate": "",
+    "Period": "Daily",
+    "IsAddedToDownloadManager": false,
+    "CountryCode": "",
+    "AzurePath": "europe/POS/Amazon/PublisherReportSubscription/Daily/"
+  }
+]

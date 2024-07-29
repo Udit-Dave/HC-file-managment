@@ -1,0 +1,35 @@
+[
+  {
+    "Tab": "Sales",
+    "StartDate": "",
+    "Period": "Daily",
+    "IsAddedToDownloadManager": false,
+    "CountryCode": "",
+    "AzurePath": "europe/POS/Amazon/Sales/Daily/"
+  },
+  {
+    "Tab": "Traffic",
+    "StartDate": "",
+    "Period": "Daily",
+    "IsAddedToDownloadManager": false,
+    "CountryCode": "",
+    "AzurePath": "europe/POS/Amazon/Traffic/Daily/"
+  },
+  {
+    "Tab": "PublisherReportAlc",
+    "StartDate": "",
+    "Period": "Daily",
+    "IsAddedToDownloadManager": false,
+    "CountryCode": "",
+    "AzurePath": "europe/POS/Amazon/PublisherReportALC/Daily/"
+
+  },
+  {
+    "Tab": "PublisherReportSubscription",
+    "StartDate": "",
+    "Period": "Daily",
+    "IsAddedToDownloadManager": false,
+    "CountryCode": "",
+    "AzurePath": "europe/POS/Amazon/PublisherReportSubscription/Daily/"
+  }
+]
